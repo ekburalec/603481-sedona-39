@@ -1460,7 +1460,7 @@ body {
   border: none;
   border-radius: 30px;
   padding: 0;
-  overflow-y: hidden;
+  overflow: hidden;
   margin: 100px auto;
 }
 
